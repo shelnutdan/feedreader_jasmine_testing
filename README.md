@@ -12,7 +12,7 @@ In this project I was given a web-based application that reads RSS feeds. The or
 - The purpose was to complete the test for the `RSS feedreader`
 
 ## Installation
-- Clone this repository using `$git clone ` or download this file a .zip failed
+- Clone this repository using `$git clone https://github.com/shelnutdan/feedreader_jasmine_testing.git` or download this file a .zip failed
 - Open `index.html` file a browser of choice
 - Test results are at the bottom of the page
 
